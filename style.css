@@ -105,6 +105,7 @@ body * {
 
 #switch button:hover {
   outline: 8px solid var(--surface-color);
+  cursor: pointer;
 }
 
 #switch span {
